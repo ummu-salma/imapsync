@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # The file mail-users_batch.txt should be of the format:
-# source-username1@example.com;passwd1;destination-username1@example.com;passwd1
-# source-username2@example.com;passwd2;destination-username2@example.com;passwd2
+# source_username1@example.com;passwd1;destination_username1@example.com;passwd1
+# source_username2@example.com;passwd2;destination_username2@example.com;passwd2
 
 # Source and destination mail server setting
 SERVER1=imap.secureserver.net
