@@ -1,5 +1,5 @@
 # imapsync
-BASH script to automate varoius tasks in mail migration using imapsync tool.
+BASH scripts to automate varoius tasks in mail migration using imapsync tool.
 
 Migration from source mail server to destination mail server can be done using the following command:
 
