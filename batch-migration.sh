@@ -6,8 +6,8 @@
 ## Version: 1.0.0 20230119
 
 # Migration users list is passed as a command line argument to this script, file content should be of the following pattern:
-# source-mailid1@example.com;passwd1;destination-mailid1@example.com;passwd1
-# source-mailid2@example.com;passwd2;destination-mailid2@example.com;passwd2
+# source_username1@example.com;passwd1;destination_username1@example.com;passwd1
+# source_username2@example.com;passwd2;destination_username2@example.com;passwd2
 
 
 # Source and destination mail server setting
